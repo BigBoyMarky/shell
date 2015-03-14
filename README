@@ -1,0 +1,17 @@
+Features that work:
+IO Redirection
+Pipes
+Background and Zombie
+Environment
+Words and special characters
+cd
+Wildcarding
+Quotes and escape characters
+Ctr-C
+Robustness
+Tilde expansion
+
+Features that do not work:
+Subshell
+fizz extra credit
+ttylib
