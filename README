@@ -10,8 +10,8 @@ Quotes and escape characters
 Ctr-C
 Robustness
 Tilde expansion
+ttylib
 
 Features that do not work:
 Subshell
 fizz extra credit
-ttylib
